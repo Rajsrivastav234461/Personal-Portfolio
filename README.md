@@ -1,76 +1,74 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+ # Personal Portfolio
 
-<br/>
+Welcome to my personal portfolio! This project showcases my skills, projects, and experiences.
 
-<center>
+## Table of Contents
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-</center>
+## About
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+This is my personal portfolio website where I display my skills, projects, and work experiences. The website is designed to provide a comprehensive view of my professional journey and capabilities.
 
 ## Features
 
-**📖 Multi-Page Layout**
+- **Home Page**: An overview of my professional profile.
+- **About Me**: A detailed section about my background, education, and interests.
+- **Projects**: Showcasing my projects with descriptions, technologies used, and links to the source code or live demos.
+- **Skills**: A list of my technical skills with proficiency levels.
+- **Contact**: A form to get in touch with me directly through the website.
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## Technologies Used
 
-**📱 Fully Responsive**
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the website.
+- **JavaScript**: For interactive elements and functionality.
+- **Bootstrap**: For responsive design and pre-styled components.
+- **React.js**: (Optional) For building dynamic UI components.
+- **Node.js**: (Optional) For server-side logic if needed.
 
-## Getting Started
+## Installation
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+To run this project locally, follow these steps:
 
-## 🛠 Installation and Setup Instructions
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/Rajsrivastav234461/Personal-Portfolio.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd Personal-Portfolio
+    ```
+3. Open `index.html` in your browser to view the portfolio.
 
-1. Installation: `npm install`
+## Usage
 
-2. In the project directory, you can run: `npm start`
+Feel free to explore the different sections of the portfolio. You can click on the project links to see more details about each project.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+## Contributing
 
-## Usage Instructions
+Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
 
-### Show your support
+## License
 
-Give a ⭐ if you like this website!
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+## Contact
+
+Nitesh Srivastava - [Your Email](srivastavnitesh513@gmail.com)
+
+Project Link: [https://github.com/Rajsrivastav234461/Personal-Portfolio](https://github.com/Rajsrivastav234461/Personal-Portfolio)
+
